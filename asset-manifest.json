@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/mozon/static/css/main.b004b11a.css",
+    "main.js": "/mozon/static/js/main.c0372a25.js",
+    "static/media/office.jpg": "/mozon/static/media/office.69645c7e02ea62577f5b.jpg",
+    "static/media/about-us.webp": "/mozon/static/media/about-us.20d89f2be227cabbea9e.webp",
+    "index.html": "/mozon/index.html",
+    "main.b004b11a.css.map": "/mozon/static/css/main.b004b11a.css.map",
+    "main.c0372a25.js.map": "/mozon/static/js/main.c0372a25.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b004b11a.css",
+    "static/js/main.c0372a25.js"
+  ]
+}
